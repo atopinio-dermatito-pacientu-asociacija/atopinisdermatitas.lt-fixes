@@ -56,7 +56,7 @@
     var resources = [];
     resources.push('https://cdn.curator.io/3.1/js/curator.min.js');
     resources.push('https://cdn.curator.io/3.1/css/curator.css');
-    resources.push('https://cdn.curator.io/published-css/3a2a646f-d0b3-4dba-b6dc-c58ed7d1a7d6.css');
+    resources.push('https://raw.githubusercontent.com/atopinio-dermatito-pacientu-asociacija/atopinisdermatitas.lt-fixes/master/curator.io/3a2a646f-d0b3-4dba-b6dc-c58ed7d1a7d6.css');
 
     
     

@@ -2,7 +2,9 @@
 * Atopinio dermatito pacientų asociacija
 * Default
 */
-
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .crt-feed-container .crt-post .crt-social-icon i {
 color:#000000;
 }
