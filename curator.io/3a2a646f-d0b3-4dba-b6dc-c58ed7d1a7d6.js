@@ -50,7 +50,7 @@
         }
     }
     
-    var config = {"maxHeight":0,"postsPerPage":3,"lang":"en","postClickAction":"open-popup","showShareIcons":true,"showReadMorePost":false,"showReadMorePopup":false,"waterfall":{"showLoadMore":true,"continuousScroll":false,"gridWidth":300,"animate":true,"animateSpeed":400},"grid":{"minWidth":200,"showLoadMore":false,"rows":3},"carousel":{"autoPlay":true,"infinite":true,"minWidth":300},"panel":{},"filter":{"showNetworks":false,"networksLabel":"SourceNetworks:","showSources":false,"sourcesLabel":"Sources:"},"type":"Waterfall","container":"#curator-feed","feedId":"3a2a646f-d0b3-4dba-b6dc-c58ed7d1a7d6","apiEndpoint":"https:\/\/api.curator.io\/v1.1","debug":0};
+    var config = {"maxHeight":0,"postsPerPage":6,"lang":"en","postClickAction":"open-popup","showShareIcons":true,"showReadMorePost":false,"showReadMorePopup":false,"waterfall":{"showLoadMore":true,"continuousScroll":false,"gridWidth":300,"animate":true,"animateSpeed":400},"grid":{"minWidth":200,"showLoadMore":false,"rows":3},"carousel":{"autoPlay":true,"infinite":true,"minWidth":300},"panel":{},"filter":{"showNetworks":false,"networksLabel":"SourceNetworks:","showSources":false,"sourcesLabel":"Sources:"},"type":"Waterfall","container":"#curator-feed","feedId":"3a2a646f-d0b3-4dba-b6dc-c58ed7d1a7d6","apiEndpoint":"https:\/\/api.curator.io\/v1.1","debug":0};
 
     var resourcesLoaded = -1;
     var resources = [];
