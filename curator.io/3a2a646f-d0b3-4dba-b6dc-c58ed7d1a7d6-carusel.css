@@ -8,10 +8,15 @@ body{
 .crt-panel-next{
 	right: 0px;
 }
-
 .crt-panel-prev{
 	left: 0px;
 }
+.crt-post-name{
+	white-space: inherit;
+}
+
+
+
 .crt-feed-container .crt-post .crt-social-icon i {
 color:#000000;
 }

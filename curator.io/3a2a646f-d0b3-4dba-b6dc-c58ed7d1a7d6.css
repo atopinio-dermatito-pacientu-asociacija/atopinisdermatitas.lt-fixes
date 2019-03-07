@@ -5,6 +5,9 @@
 body{
     font-family: "PT Sans", sans-serif;
 }
+.crt-post-name{
+	white-space: inherit;
+}
 .crt-feed-container .crt-post .crt-social-icon i {
 color:#000000;
 }
